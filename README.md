@@ -51,6 +51,6 @@ Create a pull request on GitHub.
 
 ### License
 
-Restricted use
+This project can't be used for any commercial purposes and should not be forked.
 
 Copyright (c) 2019 Megan Schulte & Brian Hensley
