@@ -1,6 +1,6 @@
 # ITUNES SCRAPER TOOL
 
-#### By Megan Schulte & Brian Hensley Aug/Sept 2019
+#### By Brian Hensley & Megan Schulte Aug/Sept 2019
 
 ## Description
 
@@ -49,4 +49,4 @@ No further support of this tool is allowed after the internship was completed.
 
 This project can't be used for any commercial purposes and should not be forked.
 
-Copyright (c) 2019 Megan Schulte & Brian Hensley
+Copyright (c) 2019 Brian Hensley & Megan Schulte
