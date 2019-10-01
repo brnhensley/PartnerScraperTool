@@ -17,8 +17,6 @@ This was an internal tool created as an internship project as part of Epicodus b
 - Enter an album's UPC in the search bar to get that UPC's scrape history
 - After searching click _SCRAPE NOW!_ to do a new scrape and see if it's currently live on iTunes
 
-## Screen Shots of running project
-
 ## Features
 
 The iTunes Scraper will take an album's UPC and let you know if that album is live on iTunes.
