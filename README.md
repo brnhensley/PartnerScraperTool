@@ -4,7 +4,7 @@
 
 ## Description
 
-This was an internal tool created as an internship project as part of Epicodus bootcamp. It is built with a C#/EF Core/Sqlite back-end and Typescript/React front-end.
+This was an internal tool created as an internship project as part of Epicodus bootcamp. It is built with a C#/.NET CORE/Entity Framework Core 2/SQLite back-end and Typescript/React front-end.
 
 ## Setup/Installation Requirements
 
@@ -21,11 +21,7 @@ This was an internal tool created as an internship project as part of Epicodus b
 
 ## Features
 
-
-
-# Current Features:
-
-
+The iTunes Scraper will take an album's UPC and let you know if that album is live on iTunes.
 
 ## Known Bugs
 
@@ -33,18 +29,18 @@ This was an internal tool created as an internship project as part of Epicodus b
 
 ## Support and contact details
 
-Create a pull request on GitHub.
+No further support of this tool is allowed after the internship was completed.
 
 ## Technologies Used
 
 - C#
-- .NET 2.1
+- .NET Core 2.1
 - Entity Framework Core 2
 - SQLite
 - Typescript
 - React
 - Webpack
-- npm
+- Node
 - HTML
 - CSS
 - Material-UI
