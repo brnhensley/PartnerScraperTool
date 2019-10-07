@@ -4,7 +4,7 @@
 
 ## Description
 
-This was an internal tool created as an internship project as part of Epicodus bootcamp. It is built with a C#/.NET CORE/Entity Framework Core 2/SQLite back-end and Typescript/React front-end.
+This was an internal tool created as an internship project as part of Epicodus bootcamp. It is built with a C#/.NET CORE API  with Entity Framework Core 2/SQLite back-end and Typescript/React front-end.  The unconventional coding syntax were specific to my internship's internal style guide.
 
 ## Setup/Installation Requirements
 
@@ -27,7 +27,7 @@ The iTunes Scraper will take an album's UPC and let you know if that album is li
 
 ## Support and contact details
 
-No further support of this tool is allowed after the internship was completed.
+No further support of this tool is allowed after September 20, 2019.
 
 ## Technologies Used
 
