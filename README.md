@@ -28,7 +28,7 @@ The iTunes Scraper will take an album's UPC and let you know if that album is li
 ## Support and contact details
 
 No further support of this tool is allowed after September 20, 2019.
-brnhensley@gmail.com
+Email me at brnhensley@gmail.com
 
 ## Technologies Used
 
