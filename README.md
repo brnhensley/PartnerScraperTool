@@ -1,10 +1,10 @@
 # ITUNES SCRAPER TOOL
 
-#### By Megan Schulte & Brian Hensley Aug/Sept 2019
+#### By Brian Hensley & Megan Schulte Aug/Sept 2019
 
 ## Description
 
-This was an internal tool created as an internship project as part of Epicodus bootcamp. It is built with a C#/EF Core/Sqlite back-end and Typescript/React front-end.
+This was an internal tool created as an internship project as part of Epicodus bootcamp. It is built with a C#/.NET CORE API  with Entity Framework Core 2/SQLite back-end and Typescript/React front-end.  The unconventional coding syntax were specific to my internship's internal style guide.
 
 ## Setup/Installation Requirements
 
@@ -17,15 +17,9 @@ This was an internal tool created as an internship project as part of Epicodus b
 - Enter an album's UPC in the search bar to get that UPC's scrape history
 - After searching click _SCRAPE NOW!_ to do a new scrape and see if it's currently live on iTunes
 
-## Screen Shots of running project
-
 ## Features
 
-
-
-# Current Features:
-
-
+The iTunes Scraper will take an album's UPC and let you know if that album is live on iTunes.
 
 ## Known Bugs
 
@@ -33,24 +27,25 @@ This was an internal tool created as an internship project as part of Epicodus b
 
 ## Support and contact details
 
-Create a pull request on GitHub.
+No further support of this tool is allowed after September 20, 2019.
+brnhensley@gmail.com
 
 ## Technologies Used
 
 - C#
-- .NET 2.1
+- .NET Core 2.1
 - Entity Framework Core 2
 - SQLite
 - Typescript
 - React
 - Webpack
-- npm
+- Node
 - HTML
 - CSS
 - Material-UI
 
 ### License
 
-Restricted use
+This project can't be used for any commercial purposes and should not be forked.
 
-Copyright (c) 2019 Megan Schulte & Brian Hensley
+Copyright (c) 2019 Brian Hensley & Megan Schulte
